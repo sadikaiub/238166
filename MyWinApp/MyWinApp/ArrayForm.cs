@@ -73,5 +73,10 @@ namespace MyWinApp
             }
 
         }
+
+        private void SumButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
