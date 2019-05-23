@@ -8,3 +8,4 @@ E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cac
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
