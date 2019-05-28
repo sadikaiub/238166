@@ -12,6 +12,7 @@ namespace MyWinApp
 {
     public partial class ArrayForm : Form
     {
+
         public ArrayForm()
         {
             InitializeComponent();
@@ -25,21 +26,15 @@ namespace MyWinApp
 
         private void ShowButton_Click(object sender, EventArgs e)
         {
-            const int size = 10;
-            int[] firstNumber = new int[size];
+
 
             firstNumber[0] = 5;
             firstNumber[5] = 8;
-            firstNumber[8] = 9;
-            string message = "";
+            firstNumber[8] = 9;        
 
+           string message =  Show();
+           richTextBox.AppendText( message);
            
-            for (int index = 0; index < firstNumber.Length; index++)
-            {
-                if (firstNumber[index]!=0)
-               message = message +"Value at index: "+ index + " is:"+firstNumber[index]+"\n";
-                richTextBox.Text = message;
-            }
         }
 
         private void AddButton_Click(object sender, EventArgs e)
@@ -47,15 +42,11 @@ namespace MyWinApp
 
             firstNumber[index] = Convert.ToInt32(numberTextBox.Text);
             index++;
-            string message = "";
+            string messege= Show();
+            richTextBox.Text=messege;
 
 
-            for (int index = 0; index < firstNumber.Length; index++)
-            {
-               if (firstNumber[index] != 0)
-                    message = message + "Value at index: " + index + " is:" + firstNumber[index] + "\n";
-                richTextBox.Text = message;
-            }
+
         }
 
         private void ReverseButton_Click(object sender, EventArgs e)
@@ -69,14 +60,35 @@ namespace MyWinApp
             {
                 if (firstNumber[index] != 0)
                     message = message + "Value at index: " + index + " is:" + firstNumber[index] + "\n";
-                richTextBox.Text = message;
+                
             }
+            richTextBox.AppendText(message);
 
         }
 
         private void SumButton_Click(object sender, EventArgs e)
         {
-
+            int sum = 0;
+            for (index = 0; index<size; index++)
+            {
+                sum = sum + firstNumber[index];
+            }
+            richTextBox.Text = "Sum:" + sum;
         }
+
+        private string Show()
+        {
+            string message = "";
+
+
+            for (int index = 0; index < firstNumber.Length; index++)
+            {
+                if (firstNumber[index] != 0)
+                    message = message + "Value at index: " + index + " is:" + firstNumber[index] + "\n";
+                
+            }
+            return message;
+        }
+
     }
 }

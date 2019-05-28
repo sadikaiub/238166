@@ -9,3 +9,15 @@ E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.ca
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
 E:\sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Home.resources
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
