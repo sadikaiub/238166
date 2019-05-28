@@ -51,6 +51,12 @@
     <Compile Include="ArrayForm.Designer.cs">
       <DependentUpon>ArrayForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="FeaturesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeaturesForm.Designer.cs">
+      <DependentUpon>FeaturesForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +73,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ArrayForm.resx">
       <DependentUpon>ArrayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeaturesForm.resx">
+      <DependentUpon>FeaturesForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>

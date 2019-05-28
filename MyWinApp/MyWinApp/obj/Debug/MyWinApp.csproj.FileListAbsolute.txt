@@ -21,3 +21,4 @@ D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
 D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
 D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
 D:\Sadik\238166\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+D:\Sadik\238166\MyWinApp\MyWinApp\obj\Debug\MyWinApp.FeaturesForm.resources
