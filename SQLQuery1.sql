@@ -7,7 +7,7 @@ CREATE DATABASE StudentDb
 --)
 
 CREATE TABLE Students(
-ID int IDENTITY(1,1),
+ID int IDENTITY(100,1),
 Name VARCHAR(100),
 Age int
 )
@@ -18,6 +18,7 @@ SELECT * FROM Students
 INSERT INTO Students(Name,Age) VALUES ('Sadik',23)
 INSERT INTO Students(Name,Age) VALUES ('Shibly',23)
 INSERT INTO Students(Name,Age) VALUES ('Shaheen',25)
+INSERT INTO Students(Name,Age) VALUES ('Ashraful',20)
 
 
 
