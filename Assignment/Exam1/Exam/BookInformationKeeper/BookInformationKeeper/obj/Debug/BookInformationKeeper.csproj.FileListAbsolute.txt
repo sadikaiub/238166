@@ -1,0 +1,9 @@
+D:\Exam\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe.config
+D:\Exam\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe
+D:\Exam\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.pdb
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csprojResolveAssemblyReference.cache
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.BookInformationKeeperUI.resources
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Properties.Resources.resources
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.GenerateResource.Cache
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.exe
+D:\Exam\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.pdb

@@ -1,0 +1,30 @@
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+H:\BITM\DotNet\Assignment\Assignment 2\Assignment 2\obj\Debug\Assignment_2.CoffeShop.resources
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\bin\Debug\Assignment 2.exe.config
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\bin\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\bin\Debug\Assignment 2.pdb
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment_2.CoffeShop.resources
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 3\Assignment 2\obj\Debug\Assignment 2.pdb
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\bin\Debug\Assignment 2.exe.config
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\bin\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\bin\Debug\Assignment 2.pdb
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment_2.CoffeShop.resources
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment_2.Properties.Resources.resources
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment 2.csproj.GenerateResource.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment 2.exe
+H:\BITM\DotNet\Assignment\Assignment 4\Assignment 2\obj\Debug\Assignment 2.pdb

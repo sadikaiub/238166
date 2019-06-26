@@ -1,0 +1,49 @@
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.FeaturesForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ValidationForm.resources
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+C:\Phase 2\Batch 3\Day10\batch3\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+D:\Sadik\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+D:\Sadik\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+D:\Sadik\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.FeaturesForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.StudentUi.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ValidationForm.resources
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+D:\Sadik\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe.config
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\bin\Debug\MyWinApp.exe
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\bin\Debug\MyWinApp.pdb
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ArrayForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DataTypeForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.DepartmentUi.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.FeaturesForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.HomeForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ListForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.StudentUi.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.ValidationForm.resources
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.exe
+H:\BITM\DotNet\Assignment\MyWinApp\MyWinApp\obj\Debug\MyWinApp.pdb

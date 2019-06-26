@@ -1,0 +1,10 @@
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\bin\Debug\netcoreapp2.2\Assingment1.deps.json
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\bin\Debug\netcoreapp2.2\Assingment1.runtimeconfig.json
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\bin\Debug\netcoreapp2.2\Assingment1.runtimeconfig.dev.json
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\bin\Debug\netcoreapp2.2\Assingment1.dll
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\bin\Debug\netcoreapp2.2\Assingment1.pdb
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\obj\Debug\netcoreapp2.2\Assingment1.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\obj\Debug\netcoreapp2.2\Assingment1.AssemblyInfoInputs.cache
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\obj\Debug\netcoreapp2.2\Assingment1.AssemblyInfo.cs
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\obj\Debug\netcoreapp2.2\Assingment1.dll
+H:\BITM\DotNet\Assignment\Assingment1\Assingment1\obj\Debug\netcoreapp2.2\Assingment1.pdb

@@ -1,0 +1,10 @@
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.csprojAssemblyReference.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.Form1.resources
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.Properties.Resources.resources
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.csproj.GenerateResource.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\bin\Debug\Information.exe.config
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\bin\Debug\Information.exe
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\bin\Debug\Information.pdb
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.exe
+H:\BITM\DotNet\Assignment\Assignment 4\Information\Information\obj\Debug\Information.pdb
